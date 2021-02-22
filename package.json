@@ -1,0 +1,15 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Nataliya Chikunova <nchikunova86@gmail.com>",
+  "license": "ISC"
+}
